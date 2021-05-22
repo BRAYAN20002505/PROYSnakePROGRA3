@@ -1,0 +1,39 @@
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache
+C:\Users\Gabriel\Downloads\culebrita\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\PC-ELHID\Desktop\5TO SEMESTRE\CURSOS\PROGRA 3\PORYSnakeP3Final\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache
